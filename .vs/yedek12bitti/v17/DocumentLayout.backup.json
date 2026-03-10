@@ -1,0 +1,346 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hatic\\OneDrive\\Masa\u00FCst\u00FC\\yedek12bitti\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{011F3E6A-0612-3273-D73C-24A3A56E4384}|Assembly-CSharp.csproj|c:\\users\\hatic\\onedrive\\masa\u00FCst\u00FC\\yedek12bitti\\assets\\script\\helicopterdoortrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{011F3E6A-0612-3273-D73C-24A3A56E4384}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\helicopterdoortrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{011F3E6A-0612-3273-D73C-24A3A56E4384}|Assembly-CSharp.csproj|C:\\Users\\hatic\\OneDrive\\Masa\u00FCst\u00FC\\yedek12bitti\\assets\\script\\helicoptercontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{011F3E6A-0612-3273-D73C-24A3A56E4384}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\helicoptercontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{011F3E6A-0612-3273-D73C-24A3A56E4384}|Assembly-CSharp.csproj|C:\\Users\\hatic\\OneDrive\\Masa\u00FCst\u00FC\\yedek12bitti\\assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{011F3E6A-0612-3273-D73C-24A3A56E4384}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{011F3E6A-0612-3273-D73C-24A3A56E4384}|Assembly-CSharp.csproj|C:\\Users\\hatic\\OneDrive\\Masa\u00FCst\u00FC\\yedek12bitti\\assets\\script\\killcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{011F3E6A-0612-3273-D73C-24A3A56E4384}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\killcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{011F3E6A-0612-3273-D73C-24A3A56E4384}|Assembly-CSharp.csproj|C:\\Users\\hatic\\OneDrive\\Masa\u00FCst\u00FC\\yedek12bitti\\assets\\script\\prefabs\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{011F3E6A-0612-3273-D73C-24A3A56E4384}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\prefabs\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{011F3E6A-0612-3273-D73C-24A3A56E4384}|Assembly-CSharp.csproj|C:\\Users\\hatic\\OneDrive\\Masa\u00FCst\u00FC\\yedek12bitti\\assets\\script\\winui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{011F3E6A-0612-3273-D73C-24A3A56E4384}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\winui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hatic\\OneDrive\\Masa\u00FCst\u00FC\\yedek12bitti\\Library\\PackageCache\\com.unity.render-pipelines.universal@0d0962426023\\Editor\\Converter\\RenderPipelineConvertersEditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.universal@0d0962426023\\Editor\\Converter\\RenderPipelineConvertersEditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{011F3E6A-0612-3273-D73C-24A3A56E4384}|Assembly-CSharp.csproj|C:\\Users\\hatic\\OneDrive\\Masa\u00FCst\u00FC\\yedek12bitti\\assets\\script\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{011F3E6A-0612-3273-D73C-24A3A56E4384}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{011F3E6A-0612-3273-D73C-24A3A56E4384}|Assembly-CSharp.csproj|C:\\Users\\hatic\\OneDrive\\Masa\u00FCst\u00FC\\yedek12bitti\\assets\\script\\enemyspawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{011F3E6A-0612-3273-D73C-24A3A56E4384}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemyspawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{011F3E6A-0612-3273-D73C-24A3A56E4384}|Assembly-CSharp.csproj|C:\\Users\\hatic\\OneDrive\\Masa\u00FCst\u00FC\\yedek12bitti\\assets\\script\\thirdpersoncamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{011F3E6A-0612-3273-D73C-24A3A56E4384}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\thirdpersoncamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{011F3E6A-0612-3273-D73C-24A3A56E4384}|Assembly-CSharp.csproj|C:\\Users\\hatic\\OneDrive\\Masa\u00FCst\u00FC\\yedek12bitti\\assets\\script\\rifleweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{011F3E6A-0612-3273-D73C-24A3A56E4384}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\rifleweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{011F3E6A-0612-3273-D73C-24A3A56E4384}|Assembly-CSharp.csproj|C:\\Users\\hatic\\OneDrive\\Masa\u00FCst\u00FC\\yedek12bitti\\assets\\script\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{011F3E6A-0612-3273-D73C-24A3A56E4384}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{011F3E6A-0612-3273-D73C-24A3A56E4384}|Assembly-CSharp.csproj|C:\\Users\\hatic\\OneDrive\\Masa\u00FCst\u00FC\\yedek12bitti\\assets\\script\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{011F3E6A-0612-3273-D73C-24A3A56E4384}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{011F3E6A-0612-3273-D73C-24A3A56E4384}|Assembly-CSharp.csproj|C:\\Users\\hatic\\OneDrive\\Masa\u00FCst\u00FC\\yedek12bitti\\assets\\script\\gameoverui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{011F3E6A-0612-3273-D73C-24A3A56E4384}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gameoverui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{011F3E6A-0612-3273-D73C-24A3A56E4384}|Assembly-CSharp.csproj|C:\\Users\\hatic\\OneDrive\\Masa\u00FCst\u00FC\\yedek12bitti\\assets\\script\\enemychase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{011F3E6A-0612-3273-D73C-24A3A56E4384}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemychase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{011F3E6A-0612-3273-D73C-24A3A56E4384}|Assembly-CSharp.csproj|C:\\Users\\hatic\\OneDrive\\Masa\u00FCst\u00FC\\yedek12bitti\\assets\\script\\enemyattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{011F3E6A-0612-3273-D73C-24A3A56E4384}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemyattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hatic\\OneDrive\\Masa\u00FCst\u00FC\\yedek12bitti\\Assets\\script\\KillCounterUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\script\\KillCounterUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hatic\\OneDrive\\Masa\u00FCst\u00FC\\yedek12bitti\\Assets\\Helicopter\\Scripts\\CheckpointController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Helicopter\\Scripts\\CheckpointController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hatic\\OneDrive\\Masa\u00FCst\u00FC\\yedek12bitti\\Assets\\Helicopter\\Scripts\\Checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Helicopter\\Scripts\\Checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hatic\\OneDrive\\Masa\u00FCst\u00FC\\yedek12bitti\\assets\\script\\helicopterexit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\script\\helicopterexit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HelicopterDoorTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\hatic\\OneDrive\\Masa\u00FCst\u00FC\\yedek12bitti\\Assets\\script\\HelicopterDoorTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\HelicopterDoorTrigger.cs",
+              "ToolTip": "C:\\Users\\hatic\\OneDrive\\Masa\u00FCst\u00FC\\yedek12bitti\\Assets\\script\\HelicopterDoorTrigger.cs",
+              "RelativeToolTip": "Assets\\script\\HelicopterDoorTrigger.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T19:40:54.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HelicopterController1.cs",
+              "DocumentMoniker": "C:\\Users\\hatic\\OneDrive\\Masa\u00FCst\u00FC\\yedek12bitti\\Assets\\script\\HelicopterController1.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\HelicopterController1.cs",
+              "ToolTip": "C:\\Users\\hatic\\OneDrive\\Masa\u00FCst\u00FC\\yedek12bitti\\Assets\\script\\HelicopterController1.cs",
+              "RelativeToolTip": "Assets\\script\\HelicopterController1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T19:40:21.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KillCounter.cs",
+              "DocumentMoniker": "C:\\Users\\hatic\\OneDrive\\Masa\u00FCst\u00FC\\yedek12bitti\\Assets\\script\\KillCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\KillCounter.cs",
+              "ToolTip": "C:\\Users\\hatic\\OneDrive\\Masa\u00FCst\u00FC\\yedek12bitti\\Assets\\script\\KillCounter.cs",
+              "RelativeToolTip": "Assets\\script\\KillCounter.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T18:42:38.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HelicopterExit.cs",
+              "DocumentMoniker": "C:\\Users\\hatic\\OneDrive\\Masa\u00FCst\u00FC\\yedek12bitti\\Assets\\script\\HelicopterExit.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\HelicopterExit.cs",
+              "ToolTip": "C:\\Users\\hatic\\OneDrive\\Masa\u00FCst\u00FC\\yedek12bitti\\Assets\\script\\HelicopterExit.cs",
+              "RelativeToolTip": "Assets\\script\\HelicopterExit.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAWwAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T22:31:53.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CheckpointController.cs",
+              "DocumentMoniker": "C:\\Users\\hatic\\OneDrive\\Masa\u00FCst\u00FC\\yedek12bitti\\Assets\\Helicopter\\Scripts\\CheckpointController.cs",
+              "RelativeDocumentMoniker": "Assets\\Helicopter\\Scripts\\CheckpointController.cs",
+              "ToolTip": "C:\\Users\\hatic\\OneDrive\\Masa\u00FCst\u00FC\\yedek12bitti\\Assets\\Helicopter\\Scripts\\CheckpointController.cs",
+              "RelativeToolTip": "Assets\\Helicopter\\Scripts\\CheckpointController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T22:17:18.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RenderPipelineConvertersEditor.cs",
+              "DocumentMoniker": "C:\\Users\\hatic\\OneDrive\\Masa\u00FCst\u00FC\\yedek12bitti\\Library\\PackageCache\\com.unity.render-pipelines.universal@0d0962426023\\Editor\\Converter\\RenderPipelineConvertersEditor.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@0d0962426023\\Editor\\Converter\\RenderPipelineConvertersEditor.cs",
+              "ToolTip": "C:\\Users\\hatic\\OneDrive\\Masa\u00FCst\u00FC\\yedek12bitti\\Library\\PackageCache\\com.unity.render-pipelines.universal@0d0962426023\\Editor\\Converter\\RenderPipelineConvertersEditor.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal@0d0962426023\\Editor\\Converter\\RenderPipelineConvertersEditor.cs",
+              "ViewState": "AgIAAHMDAAAAAAAAAADwv3sDAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T22:16:53.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Checkpoint.cs",
+              "DocumentMoniker": "C:\\Users\\hatic\\OneDrive\\Masa\u00FCst\u00FC\\yedek12bitti\\Assets\\Helicopter\\Scripts\\Checkpoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Helicopter\\Scripts\\Checkpoint.cs",
+              "ToolTip": "C:\\Users\\hatic\\OneDrive\\Masa\u00FCst\u00FC\\yedek12bitti\\Assets\\Helicopter\\Scripts\\Checkpoint.cs",
+              "RelativeToolTip": "Assets\\Helicopter\\Scripts\\Checkpoint.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAzwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T22:16:23.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "KillCounterUI.cs",
+              "DocumentMoniker": "C:\\Users\\hatic\\OneDrive\\Masa\u00FCst\u00FC\\yedek12bitti\\Assets\\script\\KillCounterUI.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\KillCounterUI.cs",
+              "ToolTip": "C:\\Users\\hatic\\OneDrive\\Masa\u00FCst\u00FC\\yedek12bitti\\Assets\\script\\KillCounterUI.cs",
+              "RelativeToolTip": "Assets\\script\\KillCounterUI.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwBIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T21:26:55.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WinUI.cs",
+              "DocumentMoniker": "C:\\Users\\hatic\\OneDrive\\Masa\u00FCst\u00FC\\yedek12bitti\\Assets\\script\\WinUI.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\WinUI.cs",
+              "ToolTip": "C:\\Users\\hatic\\OneDrive\\Masa\u00FCst\u00FC\\yedek12bitti\\Assets\\script\\WinUI.cs",
+              "RelativeToolTip": "Assets\\script\\WinUI.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T21:19:00.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerStats.cs",
+              "DocumentMoniker": "C:\\Users\\hatic\\OneDrive\\Masa\u00FCst\u00FC\\yedek12bitti\\Assets\\script\\PlayerStats.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\PlayerStats.cs",
+              "ToolTip": "C:\\Users\\hatic\\OneDrive\\Masa\u00FCst\u00FC\\yedek12bitti\\Assets\\script\\PlayerStats.cs",
+              "RelativeToolTip": "Assets\\script\\PlayerStats.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T21:15:39.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\hatic\\OneDrive\\Masa\u00FCst\u00FC\\yedek12bitti\\Assets\\script\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\GameManager.cs",
+              "ToolTip": "C:\\Users\\hatic\\OneDrive\\Masa\u00FCst\u00FC\\yedek12bitti\\Assets\\script\\GameManager.cs",
+              "RelativeToolTip": "Assets\\script\\GameManager.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwBcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T21:14:47.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Health.cs",
+              "DocumentMoniker": "C:\\Users\\hatic\\OneDrive\\Masa\u00FCst\u00FC\\yedek12bitti\\Assets\\script\\Prefabs\\Health.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\Prefabs\\Health.cs",
+              "ToolTip": "C:\\Users\\hatic\\OneDrive\\Masa\u00FCst\u00FC\\yedek12bitti\\Assets\\script\\Prefabs\\Health.cs",
+              "RelativeToolTip": "Assets\\script\\Prefabs\\Health.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAADwvx8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T21:12:01.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ThirdPersonCamera.cs",
+              "DocumentMoniker": "C:\\Users\\hatic\\OneDrive\\Masa\u00FCst\u00FC\\yedek12bitti\\Assets\\script\\ThirdPersonCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\ThirdPersonCamera.cs",
+              "ToolTip": "C:\\Users\\hatic\\OneDrive\\Masa\u00FCst\u00FC\\yedek12bitti\\Assets\\script\\ThirdPersonCamera.cs",
+              "RelativeToolTip": "Assets\\script\\ThirdPersonCamera.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA+wCUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T21:11:52.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RifleWeapon.cs",
+              "DocumentMoniker": "C:\\Users\\hatic\\OneDrive\\Masa\u00FCst\u00FC\\yedek12bitti\\Assets\\script\\RifleWeapon.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\RifleWeapon.cs",
+              "ToolTip": "C:\\Users\\hatic\\OneDrive\\Masa\u00FCst\u00FC\\yedek12bitti\\Assets\\script\\RifleWeapon.cs",
+              "RelativeToolTip": "Assets\\script\\RifleWeapon.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAuwDEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T21:11:46.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\hatic\\OneDrive\\Masa\u00FCst\u00FC\\yedek12bitti\\Assets\\script\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\hatic\\OneDrive\\Masa\u00FCst\u00FC\\yedek12bitti\\Assets\\script\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\script\\PlayerMovement.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowE0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T21:11:40.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PlayerHealth.cs",
+              "DocumentMoniker": "C:\\Users\\hatic\\OneDrive\\Masa\u00FCst\u00FC\\yedek12bitti\\Assets\\script\\PlayerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\PlayerHealth.cs",
+              "ToolTip": "C:\\Users\\hatic\\OneDrive\\Masa\u00FCst\u00FC\\yedek12bitti\\Assets\\script\\PlayerHealth.cs",
+              "RelativeToolTip": "Assets\\script\\PlayerHealth.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwDYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T21:11:34.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GameOverUI.cs",
+              "DocumentMoniker": "C:\\Users\\hatic\\OneDrive\\Masa\u00FCst\u00FC\\yedek12bitti\\Assets\\script\\GameOverUI.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\GameOverUI.cs",
+              "ToolTip": "C:\\Users\\hatic\\OneDrive\\Masa\u00FCst\u00FC\\yedek12bitti\\Assets\\script\\GameOverUI.cs",
+              "RelativeToolTip": "Assets\\script\\GameOverUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T21:11:14.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EnemySpawnManager.cs",
+              "DocumentMoniker": "C:\\Users\\hatic\\OneDrive\\Masa\u00FCst\u00FC\\yedek12bitti\\Assets\\script\\EnemySpawnManager.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\EnemySpawnManager.cs",
+              "ToolTip": "C:\\Users\\hatic\\OneDrive\\Masa\u00FCst\u00FC\\yedek12bitti\\Assets\\script\\EnemySpawnManager.cs",
+              "RelativeToolTip": "Assets\\script\\EnemySpawnManager.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAuwCUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T21:11:09.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EnemyChase.cs",
+              "DocumentMoniker": "C:\\Users\\hatic\\OneDrive\\Masa\u00FCst\u00FC\\yedek12bitti\\Assets\\script\\EnemyChase.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\EnemyChase.cs",
+              "ToolTip": "C:\\Users\\hatic\\OneDrive\\Masa\u00FCst\u00FC\\yedek12bitti\\Assets\\script\\EnemyChase.cs",
+              "RelativeToolTip": "Assets\\script\\EnemyChase.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAkwEYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T21:11:01.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EnemyAttack.cs",
+              "DocumentMoniker": "C:\\Users\\hatic\\OneDrive\\Masa\u00FCst\u00FC\\yedek12bitti\\Assets\\script\\EnemyAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\EnemyAttack.cs",
+              "ToolTip": "C:\\Users\\hatic\\OneDrive\\Masa\u00FCst\u00FC\\yedek12bitti\\Assets\\script\\EnemyAttack.cs",
+              "RelativeToolTip": "Assets\\script\\EnemyAttack.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwBAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T21:09:36.758Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
